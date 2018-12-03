@@ -1,3 +1,10 @@
+
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 Recentemente temos observado uma preocupação crescente na academia, na pesquisa industrial e na mídia sobre o fenômeno conhecido como *machine bias* ou "viés de máquina", que se refere ao processo pelo qual modelos estatísticos treináveis -- isto é, ferramentas de inteligência artificial que aprendem com exemplos de treinamento -- passam a exibir vieses controversos após o treinamento, particularmente vieses detrimentais para alguma minoria como por exemplo viés de gênero ou de raça. Recentemente múltiplas ferramentas foram acusadas de apresentar esse tipo de viés, por exemplo preditores de reincidência criminal no sistema prisional Americano que se sugere terem viés étnico (predizendo reincidência criminal de pessoas negras com maior probabilidade do que caucasianos), a polêmica do sistema de reconhecimento facial do Iphone X que se sugeriu ser incapaz de distinguir entre duas pessoas asiáticas, e o caso infame do sistema de classificação de imagens do Google photos, que classificava pessoas negras como gorilas. Mais recentemente (2017), uma imagem que sugeria viés de gênero na ferramenta de tradução automática Google Translate viralizou nas mídias sociais. A imagem mostrava um conjunto de profissões traduzido da Língua húngara para o Inglês, no qual ocupações como Enfermeiro(a) e Padeiro(a) eram traduzidas com pronome feminino e ocupações como Engenheiro(a) e CEO eram traduzidas com pronome masculino.
 
 ![](pictures/screenshot-gtranslate-hungarian.png)
