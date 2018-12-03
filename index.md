@@ -29,6 +29,7 @@ Acreditamos que esse tipo de viés pode ser estudado a partir de uma abordagem s
 |                 | Língua Suaíli              | ❌                           | ✔ |
 |     Isoladas     | Língua basca               | ❌                           | ✔ |
 |   Sino-Tibetanas  | Chinês              | O                           | ✔ |
+{: .tablelines}
 Tabela de Linguagens. Linguagens com ❌/✔ na última coluna foram descartadas/aceitas para teste. A maior parte das linguagens descartadas o foram por não admitirem pronome de gênero neutro, porém as Línguas persa, nepalesa e coreana (em itálico) foram descartadas por outros motivos.
 
 | Categoria                                       | Grupo                        | # Ocupações | Participação Feminina |
@@ -56,6 +57,7 @@ Tabela de Linguagens. Linguagens com ❌/✔ na última coluna foram descartadas
 | Construction and extraction                    | Construction / Extraction    | 68           | 3.0%              |
 | Building and grounds cleaning and maintenance  | Service                      | 10           | 40.7%             |
 | Total                                          | -                            | 1019         | 41.3%             |
+{: .tablelines}
 Tabela de ocupações obtidas do U.S. Bureau of Labor Statistics (https://www.bls.gov/cps/cpsaat11.htm), agrupadas por categoria. Nós agrupamos as categorias em grupos de menor granularidade.
 
 |  Linguagem |                                         Template de Sentença para Ocupações                                         |                                         Template de Sentença para Adjetivos                                         |
@@ -77,6 +79,7 @@ Tabela de ocupações obtidas do U.S. Bureau of Labor Statistics (https://www.bl
 |   Língua basca  |                                      < ocupação > bat da                                     |                                        < adjetivo > da                                       |
 |  Língua suaíli  |                                     yeye ni < ocupação >                                     |                                     yeye ni < adjetivo >                                     |
 |  Chinês  |                                      ta shi < ocupação >                                     |                                      ta hen < adjetivo >                                     |
+{: .tablelines}
 Tabela de templates de tradução Inglês -> Idioma de gênero neutro.
 
 Ao coletar estatísticas a respeito da frequência de tradução com pronomes femininos, masculinos ou neutros no conjunto de profissões examinado, observamos que o Google Translate apresenta, em média, um viés para traduções masculinas, com pronomes masculinos aparecendo em 59% das traduções (vs 16% de femininos, 12% de neutros e 13% de erros de tradução). Na prática, o percentual de pronomes masculinos dentro das traduções válidas (isto é, sem erros) é de 68%, e a razão de pronomes masculinos por pronome feminino é de 5 para 1. Importante ressaltar também que o percentual de traduções com gênero neutro é maior do que o percentual feminino.
@@ -106,6 +109,7 @@ Ao coletar estatísticas a respeito da frequência de tradução com pronomes fe
 |               Protective service               |     8.631     |    65.179   |      12.5      |
 |      Food preparation and serving related      |     21.078    |    58.333   |     17.647     |
 |                      Total                     |     11.76     |    58.93    |     15.939     |
+{: .tablelines}
 Frequências de tradução com pronomes Femininos, Masculinos e Neutros do Google Translate no conjunto de profissões, estratificados por categoria.
 
 |                    Grupo                    | Feminino (\%) | Masculino (\%) | Neutro (\%) |
@@ -121,6 +125,7 @@ Frequências de tradução com pronomes Femininos, Masculinos e Neutros do Googl
 |          Production          |     14.331    |    51.199   |     18.245     |
 |   Construction / Extraction  |     8.578     |    61.887   |     17.525     |
 |             Total            |     11.76     |    58.93    |     15.939     |
+{: .tablelines}
 Frequências de tradução com pronomes Femininos, Masculinos e Neutros do Google Translate no conjunto de profissões, estratificados por grupo (STEM = Ciência, Tecnologia, Engenharia e Matemática).
 
 ![](pictures/histograms/all-categories-stacked-Female-grouped.png)
